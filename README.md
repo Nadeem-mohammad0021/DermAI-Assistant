@@ -125,13 +125,6 @@ DermAI-Assistant/
 * Results depend on image clarity and lighting.
 * Accuracy may vary across different skin tones and rare conditions.
 
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🤝 Contributing
 
