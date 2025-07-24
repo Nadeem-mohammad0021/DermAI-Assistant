@@ -145,7 +145,7 @@ Contributions, feature requests, and bug reports are welcome!
 ## 📬 Contact
 
 **Developer:** Nadeem Mohammad
-📧 Email: [nadeem.mohammad0021@gmail.com](mailto:nadeem.mohammad0021@gmail.com)
+📧 Email: [nadeemmohammad0021@gmail.com](mailto:nadeemmohammad0021@gmail.com)
 🔗 GitHub: [Nadeem-mohammad0021](https://github.com/Nadeem-mohammad0021)
 
 ---
